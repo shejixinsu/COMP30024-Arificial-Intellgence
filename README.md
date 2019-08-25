@@ -2,4 +2,6 @@
 Adversarial gaming AI
 
 # Contributor
-Me and my bbelove senpai Shizhan Xu
+Me and my belove senpai Shizhan Xu
+
+# Project B will not be published without the consent from the other contributor
